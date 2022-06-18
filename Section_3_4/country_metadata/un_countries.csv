@@ -1,0 +1,194 @@
+Official_Name,Name,Same,Match,Country/Territory,Region,Estimate,Year
+Côte d'Ivoire,Cote d'Ivoire,FALSE,FALSE,Ivory Coast,Africa,"58,539",2019
+Democratic Republic of the Congo,Democratic Republic of the Congo,TRUE,FALSE,DR Congo,Africa,"47,319",2019
+Timor-Leste,East Timor,FALSE,TRUE,East Timor,Asia,"2,017",2019
+Federated States of Micronesia,Micronesia,FALSE,TRUE,Micronesia,Oceania,414,2019
+Republic of Moldova,Moldova,FALSE,TRUE,Moldova,Europe,"11,955",2019
+Plurinational State of Bolivia,Bolivia,FALSE,TRUE,Bolivia,Americas,"40,895",2019
+Brunei Darussalam,Brunei,FALSE,TRUE,Brunei,Asia,"13,469",2019
+Cabo Verde,Cape Verde,FALSE,TRUE,Cape Verde,Africa,"1,981",2019
+Islamic Republic of Iran,Iran,FALSE,TRUE,Iran,Asia,"603,779",2019
+Lao People's Democratic Republic,Laos,FALSE,TRUE,Laos,Asia,"18,822",2019
+Democratic People's Republic of Korea,North Korea,FALSE,TRUE,North Korea,Asia,"16,331",2019
+Russian Federation,Russia,FALSE,TRUE,Russia,Europe,"1,692,930",2019
+Republic of Korea,South Korea,FALSE,TRUE,South Korea,Asia,"1,646,539",2019
+Syrian Arab Republic,Syria,FALSE,TRUE,Syria,Asia,"20,379",2019
+United Republic of Tanzania,Tanzania,FALSE,TRUE,Tanzania,Africa,"61,136",2019
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,FALSE,TRUE,United Kingdom,Europe,"2,826,441",2019
+United States of America,United States,FALSE,TRUE,United States,Americas,"21,433,226",2019
+Bolivarian Republic of Venezuela,Venezuela,FALSE,TRUE,Venezuela,Americas,"134,960",2019
+Viet Nam,Vietnam,FALSE,TRUE,Vietnam,Asia,"261,921",2019
+Afghanistan,Afghanistan,TRUE,TRUE,Afghanistan,Asia,"17,876",2019
+Albania,Albania,TRUE,TRUE,Albania,Europe,"15,278",2019
+Algeria,Algeria,TRUE,TRUE,Algeria,Africa,"171,157",2019
+Andorra,Andorra,TRUE,TRUE,Andorra,Europe,"3,154",2019
+Angola,Angola,TRUE,TRUE,Angola,Africa,"85,000",2019
+Antigua and Barbuda,Antigua and Barbuda,TRUE,TRUE,Antigua and Barbuda,Americas,"1,661",2019
+Argentina,Argentina,TRUE,TRUE,Argentina,Americas,"449,663",2019
+Armenia,Armenia,TRUE,TRUE,Armenia,Asia,"13,672",2019
+Australia,Australia,TRUE,TRUE,Australia,Oceania,"1,380,207",2019
+Austria,Austria,TRUE,TRUE,Austria,Europe,"445,075",2019
+Azerbaijan,Azerbaijan,TRUE,TRUE,Azerbaijan,Asia,"48,047",2019
+Bahamas,Bahamas,TRUE,TRUE,Bahamas,Americas,"13,578",2019
+Bahrain,Bahrain,TRUE,TRUE,Bahrain,Asia,"38,574",2019
+Bangladesh,Bangladesh,TRUE,TRUE,Bangladesh,Asia,"317,465",2019
+Barbados,Barbados,TRUE,TRUE,Barbados,Americas,"5,209",2019
+Belarus,Belarus,TRUE,TRUE,Belarus,Europe,"63,080",2019
+Belgium,Belgium,TRUE,TRUE,Belgium,Europe,"533,097",2019
+Belize,Belize,TRUE,TRUE,Belize,Americas,"1,906",2019
+Benin,Benin,TRUE,TRUE,Benin,Africa,"14,403",2019
+Bhutan,Bhutan,TRUE,TRUE,Bhutan,Asia,"2,564",2019
+Bosnia and Herzegovina,Bosnia and Herzegovina,TRUE,TRUE,Bosnia and Herzegovina,Europe,"20,164",2019
+Botswana,Botswana,TRUE,TRUE,Botswana,Africa,"18,340",2019
+Brazil,Brazil,TRUE,TRUE,Brazil,Americas,"1,847,795",2019
+Bulgaria,Bulgaria,TRUE,TRUE,Bulgaria,Europe,"67,925",2019
+Burkina Faso,Burkina Faso,TRUE,TRUE,Burkina Faso,Africa,"15,990",2019
+Burundi,Burundi,TRUE,TRUE,Burundi,Africa,"3,002",2019
+Cambodia,Cambodia,TRUE,TRUE,Cambodia,Asia,"27,097",2019
+Cameroon,Cameroon,TRUE,TRUE,Cameroon,Africa,"38,861",2019
+Canada,Canada,TRUE,TRUE,Canada,Americas,"1,741,496",2019
+Central African Republic,Central African Republic,TRUE,TRUE,Central African Republic,Africa,"2,220",2019
+Chad,Chad,TRUE,TRUE,Chad,Africa,"11,271",2019
+Chile,Chile,TRUE,TRUE,Chile,Americas,"282,318",2019
+China,China,TRUE,TRUE,China,Asia,"14,342,933",2019
+Colombia,Colombia,TRUE,TRUE,Colombia,Americas,"323,802",2019
+Comoros,Comoros,TRUE,TRUE,Comoros,Africa,"1,165",2019
+Congo,Republic of the Congo,FALSE,FALSE,Congo,Africa,"12,397",2019
+Costa Rica,Costa Rica,TRUE,TRUE,Costa Rica,Americas,"61,773",2019
+Croatia,Croatia,TRUE,TRUE,Croatia,Europe,"60,415",2019
+Cuba,Cuba,TRUE,TRUE,Cuba,Americas,"105,355",2019
+Cyprus,Cyprus,TRUE,TRUE,Cyprus,Asia,"24,565",2019
+Czech Republic,Czechia,FALSE,FALSE,Czech Republic,Europe,"250,680",2019
+Denmark,Denmark,TRUE,TRUE,Denmark,Europe,"350,104",2019
+Djibouti,Djibouti,TRUE,TRUE,Djibouti,Africa,"3,166",2019
+Dominica,Dominica,TRUE,TRUE,Dominica,Americas,582,2019
+Dominican Republic,Dominican Republic,TRUE,TRUE,Dominican Republic,Americas,"88,941",2019
+Ecuador,Ecuador,TRUE,TRUE,Ecuador,Americas,"107,435",2019
+Egypt,Egypt,TRUE,TRUE,Egypt,Africa,"317,359",2019
+El Salvador,El Salvador,TRUE,TRUE,El Salvador,Americas,"27,022",2019
+Equatorial Guinea,Equatorial Guinea,TRUE,TRUE,Equatorial Guinea,Africa,"11,024",2019
+Eritrea,Eritrea,TRUE,TRUE,Eritrea,Africa,"1,981",2019
+Estonia,Estonia,TRUE,TRUE,Estonia,Europe,"31,471",2019
+Eswatini,Eswatini,TRUE,TRUE,Eswatini,Africa,"4,594",2019
+Ethiopia,Ethiopia,TRUE,TRUE,Ethiopia,Africa,"92,750",2019
+Fiji,Fiji,TRUE,TRUE,Fiji,Oceania,"5,504",2019
+Finland,Finland,TRUE,TRUE,Finland,Europe,"269,296",2019
+France,France,TRUE,TRUE,France,Europe,"2,715,518",2019
+Gabon,Gabon,TRUE,TRUE,Gabon,Africa,"16,887",2019
+Gambia,Gambia,TRUE,TRUE,Gambia,Africa,"1,822",2019
+Georgia,Georgia,TRUE,TRUE,Georgia,Asia,"17,742",2019
+Germany,Germany,TRUE,TRUE,Germany,Europe,"3,861,123",2019
+Ghana,Ghana,TRUE,TRUE,Ghana,Africa,"66,999",2019
+Greece,Greece,TRUE,TRUE,Greece,Europe,"205,326",2019
+Grenada,Grenada,TRUE,TRUE,Grenada,Americas,"1,211",2019
+Guatemala,Guatemala,TRUE,TRUE,Guatemala,Americas,"76,710",2019
+Guinea,Guinea,TRUE,TRUE,Guinea,Africa,"12,354",2019
+Guinea-Bissau,Guinea-Bissau,TRUE,TRUE,Guinea-Bissau,Africa,"1,322",2019
+Guyana,Guyana,TRUE,TRUE,Guyana,Americas,"5,173",2019
+Haiti,Haiti,TRUE,TRUE,Haiti,Americas,"8,051",2019
+Honduras,Honduras,TRUE,TRUE,Honduras,Americas,"25,095",2019
+Hungary,Hungary,TRUE,TRUE,Hungary,Europe,"163,469",2019
+Iceland,Iceland,TRUE,TRUE,Iceland,Europe,"24,188",2019
+India,India,TRUE,TRUE,India,Asia,"2,891,582",2019
+Indonesia,Indonesia,TRUE,TRUE,Indonesia,Asia,"1,119,190",2019
+Iraq,Iraq,TRUE,TRUE,Iraq,Asia,"225,232",2019
+Ireland,Ireland,TRUE,TRUE,Ireland,Europe,"398,590",2019
+Israel,Israel,TRUE,TRUE,Israel,Asia,"395,098",2019
+Italy,Italy,TRUE,TRUE,Italy,Europe,"2,003,576",2019
+Jamaica,Jamaica,TRUE,TRUE,Jamaica,Americas,"15,830",2019
+Japan,Japan,TRUE,TRUE,Japan,Asia,"5,082,465",2019
+Jordan,Jordan,TRUE,TRUE,Jordan,Asia,"44,502",2019
+Kazakhstan,Kazakhstan,TRUE,TRUE,Kazakhstan,Asia,"181,667",2019
+Kenya,Kenya,TRUE,TRUE,Kenya,Africa,"95,501",2019
+Kiribati,Kiribati,TRUE,TRUE,Kiribati,Oceania,194,2019
+Kuwait,Kuwait,TRUE,TRUE,Kuwait,Asia,"134,623",2019
+Kyrgyzstan,Kyrgyzstan,TRUE,TRUE,Kyrgyzstan,Asia,"8,454",2019
+Latvia,Latvia,TRUE,TRUE,Latvia,Europe,"34,102",2019
+Lebanon,Lebanon,TRUE,TRUE,Lebanon,Asia,"56,409",2019
+Lesotho,Lesotho,TRUE,TRUE,Lesotho,Africa,"2,460",2019
+Liberia,Liberia,TRUE,TRUE,Liberia,Africa,"2,582",2019
+Libya,Libya,TRUE,TRUE,Libya,Africa,"32,600",2019
+Liechtenstein,Liechtenstein,TRUE,TRUE,Liechtenstein,Europe,"6,797",2019
+Lithuania,Lithuania,TRUE,TRUE,Lithuania,Europe,"54,627",2019
+Luxembourg,Luxembourg,TRUE,TRUE,Luxembourg,Europe,"71,104",2019
+Madagascar,Madagascar,TRUE,TRUE,Madagascar,Africa,"14,104",2019
+Malawi,Malawi,TRUE,TRUE,Malawi,Africa,"8,099",2019
+Malaysia,Malaysia,TRUE,TRUE,Malaysia,Asia,"364,684",2019
+Maldives,Maldives,TRUE,TRUE,Maldives,Asia,"5,642",2019
+Mali,Mali,TRUE,TRUE,Mali,Africa,"17,432",2019
+Malta,Malta,TRUE,TRUE,Malta,Europe,"14,863",2019
+Marshall Islands,Marshall Islands,TRUE,TRUE,Marshall Islands,Oceania,237,2019
+Mauritania,Mauritania,TRUE,TRUE,Mauritania,Africa,"7,593",2019
+Mauritius,Mauritius,TRUE,TRUE,Mauritius,Africa,"14,180",2019
+Mexico,Mexico,TRUE,TRUE,Mexico,Americas,"1,256,440",2019
+Monaco,Monaco,TRUE,TRUE,Monaco,Europe,"7,423",2019
+Mongolia,Mongolia,TRUE,TRUE,Mongolia,Asia,"13,852",2019
+Montenegro,Montenegro,TRUE,TRUE,Montenegro,Europe,"5,542",2019
+Morocco,Morocco,TRUE,TRUE,Morocco,Africa,"119,700",2019
+Mozambique,Mozambique,TRUE,TRUE,Mozambique,Africa,"15,296",2019
+Myanmar,Myanmar,TRUE,TRUE,Myanmar,Asia,"76,784",2019
+Namibia,Namibia,TRUE,TRUE,Namibia,Africa,"12,366",2019
+Nauru,Nauru,TRUE,TRUE,Nauru,Oceania,132,2019
+Nepal,Nepal,TRUE,TRUE,Nepal,Asia,"30,714",2019
+Netherlands,Netherlands,TRUE,TRUE,Netherlands,Europe,"907,050",2019
+New Zealand,New Zealand,TRUE,TRUE,New Zealand,Oceania,"206,936",2019
+Nicaragua,Nicaragua,TRUE,TRUE,Nicaragua,Americas,"12,520",2019
+Niger,Niger,TRUE,TRUE,Niger,Africa,"12,927",2019
+Nigeria,Nigeria,TRUE,TRUE,Nigeria,Africa,"474,516",2019
+North Macedonia,North Macedonia,TRUE,TRUE,North Macedonia,Europe,"12,694",2019
+Norway,Norway,TRUE,TRUE,Norway,Europe,"403,336",2019
+Oman,Oman,TRUE,TRUE,Oman,Asia,"76,331",2019
+Pakistan,Pakistan,TRUE,TRUE,Pakistan,Asia,"263,000",2019
+Palau,Palau,TRUE,TRUE,Palau,Oceania,280,2019
+Panama,Panama,TRUE,TRUE,Panama,Americas,"66,787",2019
+Papua New Guinea,Papua New Guinea,TRUE,TRUE,Papua New Guinea,Oceania,"24,969",2019
+Paraguay,Paraguay,TRUE,TRUE,Paraguay,Americas,"38,086",2019
+Peru,Peru,TRUE,TRUE,Peru,Americas,"226,850",2019
+Philippines,Philippines,TRUE,TRUE,Philippines,Asia,"359,354",2019
+Poland,Poland,TRUE,TRUE,Poland,Europe,"595,862",2019
+Portugal,Portugal,TRUE,TRUE,Portugal,Europe,"238,785",2019
+Qatar,Qatar,TRUE,TRUE,Qatar,Asia,"183,466",2019
+Romania,Romania,TRUE,TRUE,Romania,Europe,"250,075",2019
+Rwanda,Rwanda,TRUE,TRUE,Rwanda,Africa,"10,355",2019
+Saint Kitts and Nevis,Saint Kitts and Nevis,TRUE,TRUE,Saint Kitts and Nevis,Americas,"1,050",2019
+Saint Lucia,Saint Lucia,TRUE,TRUE,Saint Lucia,Americas,"2,122",2019
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,TRUE,TRUE,Saint Vincent and the Grenadines,Americas,825,2019
+Samoa,Samoa,TRUE,TRUE,Samoa,Oceania,844,2019
+San Marino,San Marino,TRUE,TRUE,San Marino,Europe,"1,602",2019
+São Tomé and Príncipe,Sao Tome and Principe,FALSE,FALSE,São Tomé and Príncipe,Africa,421,2019
+Saudi Arabia,Saudi Arabia,TRUE,TRUE,Saudi Arabia,Asia,"792,966",2019
+Senegal,Senegal,TRUE,TRUE,Senegal,Africa,"23,664",2019
+Serbia,Serbia,TRUE,TRUE,Serbia,Europe,"51,475",2019
+Seychelles,Seychelles,TRUE,TRUE,Seychelles,Africa,"1,698",2019
+Sierra Leone,Sierra Leone,TRUE,TRUE,Sierra Leone,Africa,"4,121",2019
+Singapore,Singapore,TRUE,TRUE,Singapore,Asia,"372,073",2019
+Slovakia,Slovakia,TRUE,TRUE,Slovakia,Europe,"105,079",2019
+Slovenia,Slovenia,TRUE,TRUE,Slovenia,Europe,"54,174",2019
+Solomon Islands,Solomon Islands,TRUE,TRUE,Solomon Islands,Oceania,"1,302",2019
+Somalia,Somalia,TRUE,TRUE,Somalia,Africa,"1,626",2019
+South Africa,South Africa,TRUE,TRUE,South Africa,Africa,"351,430",2019
+South Sudan,South Sudan,TRUE,TRUE,South Sudan,Africa,"4,959",2019
+Spain,Spain,TRUE,TRUE,Spain,Europe,"1,393,490",2019
+Sri Lanka,Sri Lanka,TRUE,TRUE,Sri Lanka,Asia,"84,008",2019
+Sudan,Sudan,TRUE,TRUE,Sudan,Africa,"34,895",2019
+Suriname,Suriname,TRUE,TRUE,Suriname,Americas,"3,697",2019
+Sweden,Sweden,TRUE,TRUE,Sweden,Europe,"530,883",2019
+Switzerland,Switzerland,TRUE,TRUE,Switzerland,Europe,"731,425",2019
+Tajikistan,Tajikistan,TRUE,TRUE,Tajikistan,Asia,"8,333",2019
+Thailand,Thailand,TRUE,TRUE,Thailand,Asia,"542,016",2019
+Togo,Togo,TRUE,TRUE,Togo,Africa,"7,270",2019
+Tonga,Tonga,TRUE,TRUE,Tonga,Oceania,508,2019
+Trinidad and Tobago,Trinidad and Tobago,TRUE,TRUE,Trinidad and Tobago,Americas,"23,208",2019
+Tunisia,Tunisia,TRUE,TRUE,Tunisia,Africa,"38,797",2019
+Turkey,Turkey,TRUE,TRUE,Turkey,Asia,"761,425",2019
+Turkmenistan,Turkmenistan,TRUE,TRUE,Turkmenistan,Asia,"48,276",2019
+Tuvalu,Tuvalu,TRUE,TRUE,Tuvalu,Oceania,47,2019
+Uganda,Uganda,TRUE,TRUE,Uganda,Africa,"32,609",2019
+Ukraine,Ukraine,TRUE,TRUE,Ukraine,Europe,"153,781",2019
+United Arab Emirates,United Arab Emirates,TRUE,TRUE,United Arab Emirates,Asia,"421,142",2019
+Uruguay,Uruguay,TRUE,TRUE,Uruguay,Americas,"56,045",2019
+Uzbekistan,Uzbekistan,TRUE,TRUE,Uzbekistan,Asia,"57,921",2019
+Vanuatu,Vanuatu,TRUE,TRUE,Vanuatu,Oceania,906,2019
+Yemen,Yemen,TRUE,TRUE,Yemen,Asia,"24,935",2019
+Zambia,Zambia,TRUE,TRUE,Zambia,Africa,"23,085",2019
+Zimbabwe,Zimbabwe,TRUE,TRUE,Zimbabwe,Africa,"21,440",2019
